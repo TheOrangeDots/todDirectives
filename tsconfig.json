@@ -1,0 +1,24 @@
+{
+  "typeAcquisition": {
+	"enable": true
+  },
+  "compileOnSave": true,
+  "compilerOptions": {
+    "declaration": false,
+    "emitDecoratorMetadata": false,
+    "experimentalDecorators": true,
+    "module": "es6",
+    "moduleResolution": "node",
+    "noFallthroughCasesInSwitch": false,
+    "noImplicitAny": false,
+    "noImplicitReturns": false,
+    "removeComments": false,
+    "sourceMap": true,
+    "strictNullChecks": false,
+    "target": "es5",
+    "typeRoots": [
+      "C:/Users/pbakker/AppData/Local/Microsoft/TypeScript/node_modules/@types"
+  	],
+    "types": ["angular"]
+  }
+}

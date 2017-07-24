@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: tod
+Bundle-Name: TOD Services
+Bundle-Version: 1.0.0
+Package-Type: Web-Service
+
+Name: history/history.spec
+Web-Service: True
+
+Name: dnddirectives/dnddirectives.spec
+Web-Service: True
+
+Name: utils/utils.spec
+Web-Service: True
+
