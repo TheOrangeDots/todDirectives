@@ -1,2 +1,4 @@
 # todDirectives
-AngularJS directives
+A set of (reusable) AngularJS directives
+
+# todFlyOut directive
